@@ -1,4 +1,4 @@
-#include "iostream.h"
+#include "iostream"
 
 int Addfunction(int a,int b)
 {
